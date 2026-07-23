@@ -152,6 +152,59 @@ exploring:
 
 ---
 
+## 🚀  Open Source Projects
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h2><a href="https://github.com/vinaykolupula/ContxtAI">⚡ ContxtAI</a></h2>
+      <p><b>Portable AI Context Extension</b> — a privacy-focused browser extension that helps you save, manage, and reuse your AI context across platforms.</p>
+      <p align="center">
+        <a href="https://github.com/vinaykolupula/ContxtAI">
+          <img src="./assets/contxtai-banner.png" alt="ContxtAI Banner" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://contxtai.vinaykolupula.workers.dev/"><img src="https://img.shields.io/badge/Website-LIVE-2E86C1?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+        &nbsp;&nbsp;
+        <a href="https://chromewebstore.google.com/detail/contxtai/dmhnnfkppbobolkngkblakklfhigbidh"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/vinaykolupula/ContxtAI"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h2><a href="https://github.com/vinaykolupula/VerticalX">🎬 VerticalX</a></h2>
+      <p><b>AI Video Reframing Engine</b> — Video processing and reframing engine designed to automate the conversion of horizontal 16:9 videos into 9:16 vertical clips optimized for mobile-first platforms (TikTok, Instagram Reels, YouTube Shorts).</p>
+      <p align="center">
+        <a href="https://github.com/vinaykolupula/VerticalX">
+          <img src="./assets/VERTICALX-upload.png" alt="VerticalX Upload Interface" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/vinaykolupula/VerticalX">
+          <img src="./assets/VERTICALX-panel.png" alt="VerticalX Panel Interface" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://verticalx.vinaykolupula.workers.dev/"><img src="https://img.shields.io/badge/Website-LIVE-2E86C1?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/vinaykolupula/VerticalX"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
 ## 🧩 Some Questions I Keep Coming Back To
 
 > 🤖 How will AI agents reshape the way software gets built?
@@ -186,11 +239,6 @@ exploring:
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinaykolupula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykolupula&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykolupula&theme=tokyonight&hide_border=true" />
